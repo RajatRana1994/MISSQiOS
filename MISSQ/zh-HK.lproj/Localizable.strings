@@ -1,0 +1,223 @@
+/*
+  Localizable.strings
+  MISSQ
+
+  Created by Vikas Kumar on 22/04/22.
+  
+*/
+
+"welcome" = "欢迎";
+"log_in" = "登录";
+"get_started" = "开始";
+"we_serve_at_your_pleasure" = "我们乐意为您服务";
+"or" = "或者";
+"already_a_user?" = "已经是用户了吗？";
+"sign_in" = "登录";
+"email_address" = "邮箱地址";
+"password" = "密码";
+"forgot_password?" = "忘记密码?";
+"forgot_password" = "忘记密码";
+"don't_have_an_account?" = "还未有账号?";
+"sign_up" = "注册";
+"please_enter_email_address" = "请输入邮箱地址";
+"please_enter_valid_email_address" = "请输入有效的邮箱地址";
+"please_enter_password" = "请输入密码";
+"Ok" = "确定";
+
+"full_name" = "全称";
+"name" = "名";
+"address" = "地址";
+"phone_number" = "电话号码";
+"confirm_password" = "确认密码";
+"submit" = "提交";
+"choose_image" = "选择图片";
+"camera" = "相机";
+"gallery" = "相册";
+"cancel" = "取消";
+"please_select_image" = "请选择图片";
+"please_enter_full_name" = "请输入全称";
+"please_select_address" = "请选择地址";
+"please_enter_phone_number" = "请输入电话号码";
+"please_enter_confirm_password" = "请输入确认密码";
+"password_should_be_of_8_digits" = "密码必须为8位数";
+"password_dosen't_match" = "密码不匹配";
+
+
+"birth_date" = "出生日期";
+"picture_(selfie)" = "图片 (自拍)";
+"nbi_clearance_(upload_file)" = "无犯罪证明 (上传文档)";
+"primary_id_(upload_file)" = "主id (上传文档)";
+"services" = "服务";
+"i_accept/agree_to_the" = "我接受/同意";
+"terms&conditions" = "条款条件";
+"please_select_date_of_birth" = "请选择出生日期";
+"please_select_selfie_picture" = "请选择自拍照";
+"please_select_nbi_picture" = "请选择NBI图片";
+"please_select_primary_ID_picture" = "请选择主ID图片";
+"please_select_service" = "请选择服务";
+"terms" = "请阅读并选择条款条件";
+
+"hi" = "你好";
+"book_service" = "预定服务";
+"our_top_priority" = "我们的首要任务";
+"is_our_customers" = "是我们客户的";
+"fulfillment" = "满意";
+"orders" = "订单";
+"current" = "当前";
+"pending" = "待定的";
+"on-going" = "正在进行的";
+"completed" = "已完成的";
+"status" = "状态";
+"1_service" = "1 服务";
+"minutes" = "分钟";
+"you_request_has_been" = "您的请求已被";
+"Approved" = "批准";
+"Rejected" = "拒绝";
+"purchase_details" = "采购明细";
+"my_purchase" = "我的采购";
+"time_start" = "开始时间";
+"time_end" = "结束时间";
+"total_order" = "总订单数";
+
+
+"service" = "服务";
+"bookings" = "预定";
+"client" = "客户";
+"address" = "地址";
+"start" = "开始";
+"tracking" = "追踪";
+"click_here_to_track" = "点此追踪";
+"employee" = "员工";
+"do_payment" = "付款";
+"track_booking" = "追踪预定";
+"tracking_#" = "追踪 #";
+"completed" = "已完成";
+"on_the_way" = "在路上";
+"travelling" = "在旅行";
+"place_service" = "订购服务";
+"your_request_has_been_log" = "您的请求已被记录";
+"your_employee_is_arriving_soon" = "您的员工马上就到";
+
+"home_service_chat" = "家庭服务聊天";
+"review_&_ratings" = "评论和星级";
+
+"boo_a_aervice_now" = "现在预定一个服务";
+"available_@_one_click" = "一键可得";
+
+"a" = "如何能把家里收拾得干干净净的？";
+"b" = "如何像母亲一样照顾你的婴儿？";
+"c1" = "你如何才能恢复你在艰难的一周中失去的能量？";
+"c2" = "让我们从放松的按摩开始这一周的工作。";
+"d" = "我们如何能在家里轻松快速地理发。";
+"e" = "我们如何在家里教育你的孩子，让他们前程似锦。";
+
+"service_provider" = "服务提供者";
+"checkout" = "结账";
+"date_&_time" = "日期和时间";
+"payment_method" = "付款方式";
+"pay_after_service" = "服务后付款";
+"credit/debit_card" = "信用卡/借记卡";
+"order_amount" = "订单总额";
+"please_select_date" = "请选择日期";
+"please_select_start_time" = "请选择开始时间";
+"please_select_end_time" = "请选择结束时间";
+"end_time_must_be_greater_then_start_time" = "结束时间必须大于开始时间";
+
+"home_address" = "家庭地址";
+"emergency_contact" = "紧急联系人";
+"change" = "更改";
+"update_profile" = "更新个人资料";
+"logout" = "注销";
+"delete_account" = "Delete Account";
+"old_password" = "旧密码";
+"new_password" = "新密码";
+"change_password" = "更改密码";
+
+"please_enter_your_current_password" = "请输入您的当前密码";
+"please_enter_your_new_password" = "请输入您的新密码";
+"are_you_sure_you_want_to_logout?" = "是否确定注销？";
+"cancel" = "取消";
+"yes" = "确定";
+
+
+
+//Employee
+"at_rest" = "休息";
+"on_duty" = "值班";
+"on_going" = "正在进行";
+"accept" = "接受";
+"reject" = "拒绝";
+"order_ID" = "订单号";
+"request_has_been_declined" = "请求已被拒";
+"request_has_been_approved" = "请求已被批准";
+"complete_setup" = "完成设置";
+"total_quoted_amount" = "总报价金额";
+"payble_by_customer" = "由客户付款";
+"already_paid" = "已付款";
+"order_rewards" = "订单积分";
+"balance" = "余额";
+"service_subtotal" = "服务小计";
+"order_total" = "订单总数";
+"contact_service_management" = "联系服务管理";
+"location" = "位置";
+"search" = "搜索...";
+"city" = "城市";
+"state" = "州";
+"postal_code" = "邮编";
+"start_service_now" = "现在开始服务";
+"cash_to_collect" = "收取现金";
+"total_amount" = "总额";
+"show_details" = "细节展示";
+"qa" = "问答";
+"have_you_contacted_the_client?" = "您联系客户了吗？";
+"complete" = "完成";
+"select_category" = "选择类别";
+"proof_of_service" = "送达回证";
+"before" = "之前";
+"after" = "之后";
+"upload_photo" = "上传照片";
+"add_some_photos_of_for_review_to_get_best_quotes." = "为评论添加图片来获得最佳报价。";
+"order_contact" = "订单联系方式";
+"please_select_before_image" = "请在图片前选择";
+"please_select_after_image" = "请在图片后选择";
+"payble_by_customer" = "由客户支付";
+"settled_fees" = "已结算费用";
+"type_a_message..." = "输入一条消息";
+"please_enter_review" = "请输入评价";
+"out_of_5" = "满分5分";
+"job/hr" = "工作/人事";
+"settings" = "设置";
+"share" = "分享";
+"notification" = "通知";
+"support" = "支持";
+"terms_&_conditions" = "条款条件";
+"language" = "语言";
+"logged_in_as" = "登录身份为";
+"version_1.0" = "版本1.0";
+"order_notification" = "订单通知";
+"1._tell_us_something_interesting_about_you?" = "1. 告诉我们一些关于你的趣事";
+"2._how_did_you_hear_about_this_app?" = "2.你是如何了解这款应用程序的？";
+"employee_survey" = "员工测评";
+"Enter_something_interesting_about_you" = "输入一些关于你的趣事！";
+"Enter_specify_other_app_name" = "输入指定其它应用程序名称！";
+
+"no_data_found!" = "没有找到数据！";
+"wallet" = "钱包";
+"log_out" = "登出";
+"my_wallet" = "我的钱包";
+"available_balance" = "可用余额";
+"deposit" = "订金";
+"under_review" = "审查中";
+"top-up"= "充值";
+"cashout" = "兑现";
+"balance_details" = "余额详情";
+"bank_card_information" = "银行卡信息";
+"top_up_pay" = "充值支付";
+"place_order" = "下订单";
+
+"₱_100" = "₱ 100";
+"₱_200" = "₱ 200";
+"₱_300" = "₱ 300";
+"₱_500" = "₱ 500";
+"₱_1000" = "₱ 1000";
+"₱_2000" = "₱ 2000";

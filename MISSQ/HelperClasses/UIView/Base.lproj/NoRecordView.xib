@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NoRecordView" customModule="Central_Driver" customModuleProvider="target">
+            <connections>
+                <outlet property="btnNoRecord" destination="3UE-57-IsN" id="KjS-dz-eRa"/>
+                <outlet property="customView" destination="ZpM-D0-aR0" id="LxV-c9-n63"/>
+                <outlet property="lblNoRecord" destination="swZ-Ul-4eH" id="CYy-1z-l2v"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="ZpM-D0-aR0">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3UE-57-IsN">
+                    <rect key="frame" x="114.5" y="297" width="146" height="36"/>
+                    <color key="backgroundColor" red="0.40000000000000002" green="0.71372549019999998" blue="0.30588235289999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="146" id="DWC-sm-uag"/>
+                        <constraint firstAttribute="height" constant="36" id="yxf-IE-Xyb"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
+                    <state key="normal" title="Tap to Retry">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="btnNoRecordAction:" destination="-1" eventType="touchUpInside" id="Uu8-Ba-E2c"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="swZ-Ul-4eH">
+                    <rect key="frame" x="33" y="249" width="312" height="0.0"/>
+                    <fontDescription key="fontDescription" name="Avenir-Light" family="Avenir" pointSize="17"/>
+                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="3UE-57-IsN" firstAttribute="top" secondItem="swZ-Ul-4eH" secondAttribute="bottom" constant="48" id="Rjf-e0-qWm"/>
+                <constraint firstItem="swZ-Ul-4eH" firstAttribute="leading" secondItem="Edx-aC-koD" secondAttribute="leading" constant="33" id="lfd-Ac-Ml3"/>
+                <constraint firstItem="Edx-aC-koD" firstAttribute="trailing" secondItem="swZ-Ul-4eH" secondAttribute="trailing" constant="30" id="x8s-h8-6ks"/>
+                <constraint firstItem="3UE-57-IsN" firstAttribute="centerX" secondItem="ZpM-D0-aR0" secondAttribute="centerX" id="xv0-eL-knp"/>
+                <constraint firstItem="swZ-Ul-4eH" firstAttribute="top" secondItem="Edx-aC-koD" secondAttribute="top" constant="229" id="yKJ-RU-X1X"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="Edx-aC-koD"/>
+            <point key="canvasLocation" x="-141.5" y="-192.5"/>
+        </view>
+    </objects>
+</document>

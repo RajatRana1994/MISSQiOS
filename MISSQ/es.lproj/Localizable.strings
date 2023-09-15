@@ -1,0 +1,223 @@
+/*
+  Localizable.strings
+  MISSQ
+
+  Created by Vikas Kumar on 22/04/22.
+  
+*/
+
+"welcome "="BIENVENIDO";
+"log_in" = "Inicia Sesión";
+"get_started" = "Empezar";
+"we_serve_at_your_pleasure" = "Te servimos a tu placer";
+"or" = "o";
+"already_a_user?" = "¿Ya eres usuario?";
+"sign_in" = "Inicia Sesión";
+"email_address" = "Dirección de Correo Electrónico";
+"password" = "Clave";
+"forgot_password?" = "¿Olvidaste la clave?";
+"forgot_password" = "Olvidé la Clave";
+"don't_have_an_account?" = "¿No tienes un cuenta?";
+"sign_up" = "Inscríbete";
+"please_enter_email_address" = "Por favor introduzca su dirección de correo electrónico";
+"please_enter_valid_email_address" = "Por favor introduzca una dirección de correo electrónico válida";
+"please_enter_password" = "Por favor ingrese una clave";
+"Ok" = "Ok";
+
+"full_name" = "Nombre Completo";
+"name" = "Nombre";
+"address" = "Dirección";
+"phone_number" = "Número de Teléfono";
+"confirm_password" = "Confirme su Clave";
+"submit" = "Presentar";
+"choose_image" = "Elegir Imagen";
+"camera" = "Cámara";
+"gallery" = "Galería";
+"cancel" = "Cancelar";
+"please_select_image" = "Por favor seleccione una imágen";
+"please_enter_full_name" = "Por favor introduzca su nombre completo";
+"please_select_address" = "Por favor introduzca una dirección";
+"please_enter_phone_number" = "Por favor introduzca un número de teléfono";
+"please_enter_confirm_password" = "Por favor confirme su clave";
+"password_should_be_of_8_digits" = "La clave debe contener 8 dígitos";
+"password_dosen't_match" = "La clave no coincide";
+
+
+"birth_date" = "Fecha de Nacimiento";
+"picture_(selfie)" = "Foto (selfie)";
+"nbi_clearance_(upload_file)" = "Autorización nbi (subir archivo)";
+"primary_id_(upload_file)" = "Identificación principal (subir archivo)";
+"services" = "Servicios";
+"i_accept/agree_to_the" = "Acepto/estoy de acuerdo con";
+"terms&conditions" = "Términos y Condiciones";
+"please_select_date_of_birth" = "Por favor seleccione fecha de nacimiento";
+"please_select_selfie_picture" = "Por favor seleccione la foto selfie";
+"please_select_nbi_picture" = "Por favor seleccione la foto del NBI";
+"please_select_primary_ID_picture" = "Por favor seleccione la foto de su Identificación principal";
+"please_select_service" = "Por favor seleccione el servicio";
+"terms" = "por favor lea y seleccione los términos y condiciones";
+
+"hi" = "Hola";
+"book_service" = "Libro de Servicio";
+"our_top_priority" = "Nuestra primera prioridad";
+"is_our_customers" = "es nuestro cliente";
+"fulfillment" = "cumplimiento";
+"orders" = "Órdenes";
+"current" = "Actual";
+"pending" = "Pendiente";
+"on-going" = "En Curso";
+"completed" = "Completado";
+"status" = "Estado";
+"1_service" = "1 Servicio";
+"minutes" = "Minutos";
+"you_request_has_been" = "Su petición ha sido";
+"Approved" = "Aprobada";
+"Rejected" = "Rechazada";
+"purchase_details" = "Detalles de la Compra";
+"my_purchase" = "Mi Compra";
+"time_start" = "Tiempo de Inicio";
+"time_end" = "Tiempo de Finalización";
+"total_order" = "Orden Total";
+
+
+"service" = "SERVICIO";
+"bookings" = "Reservas";
+"client" = "Cliente";
+"address" = "Dirección";
+"start" = "Inicio";
+"tracking" = "Rastreo";
+"click_here_to_track" = "Haz clic aquí para rastrear";
+"employee" = "Empleado";
+"do_payment" = "Hacer Pago";
+"track_booking" = "Rastrear Reserva";
+"tracking_#" = "RASTREO #";
+"completed" = "Completado";
+"on_the_way" = "En Camino";
+"travelling" = "Viajando";
+"place_service" = "Colocar Pedido";
+"your_request_has_been_log" = "Tu petición ha sido registrada";
+"your_employee_is_arriving_soon" = "Tu empleado estará llegando pronto";
+
+"home_service_chat" = "Chat de Servicio del Hogar";
+"review_&_ratings" = "Reseñas y Calificaciones";
+
+"boo_a_aervice_now" = "Reserva un servicio ahora";
+"available_@_one_click" = "Disponible a Un Clic";
+
+"a" = "¿Cómo puedes mantener tu casa tan limpia que rechine?";
+"b" = "¿Cómo cuidar de tu infante como una madre lo haría?";
+"c1" = "¿Cómo recuperar la energía que has perdido en el transcurso de una dura semana?";
+"c2" = "Vamos a empezar la semana con un relajante mensaje.";
+"d" = "Como podemos hacer un fácil y rápido corte de cabello en tu casa";
+"e" = "Como podemos educar a tu hijo(a) en casa para un futuro brillante.";
+
+"no_data_found!" = "¡Datos no encontrados!";
+"service_provider" = "Proveedor de Servicio";
+"checkout" = "Caja de pago";
+"date_&_time" = "Fecha y Hora";
+"payment_method" = "Método de Pago";
+"pay_after_service" = "Pago Posterior al Servicio";
+"credit/debit_card" = "Tarjeta de Crédito/Débito";
+"order_amount" = "Cantidad de la orden";
+"please_select_date" = "Por favor seleccione una fecha";
+"please_select_start_time" = "Por favor seleccione un tiempo de inicio";
+"please_select_end_time" = "Por favor seleccione un tiempo de finalización";
+"end_time_must_be_greater_then_start_time" = "El tiempo de finalización debe ser mayor al tiempo de inicio";
+
+"home_address" = "Dirección de habitación";
+"emergency_contact" = "Contacto de Emergencia";
+"change" = "Cambio";
+"update_profile" = "Actualizar Perfil";
+"logout" = "Cerrar Sesión";
+"delete_account" = "Delete Account";
+"old_password" = "Clave Antigua";
+"new_password" = "Clave Nueva";
+"change_password" = "Cambiar Clave";
+
+"please_enter_your_current_password" = "Por favor introduzca su clave actual";
+"please_enter_your_new_password" = "Por favor introduzca su clave nueva";
+"are_you_sure_you_want_to_logout?" = "¿Está seguro que desea cerrar la sesión?";
+"cancel" = "Cancelar";
+"yes" = "Si";
+
+
+
+//Employee
+"at_rest" = "En Descanso";
+"on_duty" = "En Labor";
+"on_going" = "En Curso";
+"accept" = "Aceptar";
+"reject" = "Rechazar";
+"order_ID" = "Identificación del Pedido";
+"request_has_been_declined" = "La petición ha sido declinada";
+"request_has_been_approved" = "La petición ha sido aprobada";
+"complete_setup" = "Configuración Completa";
+"total_quoted_amount" = "Monto total cotizado";
+"payble_by_customer" = "Pagable por el Cliente";
+"already_paid" = "Ya ha sido Pagado";
+"order_rewards" = "Recompensa por la Orden";
+"balance" = "Balance";
+"service_subtotal" = "Subtotal del Servicio";
+"order_total" = "Total de la Orden";
+"contact_service_management" = "Contacte Servicio de Administración";
+"location" = "Lugar";
+"search" = "Buscar...";
+"city" = "Ciudad";
+"state" = "Estado";
+"postal_code" = "Código Postal";
+"start_service_now" = "Empiece el Servicio Ahora";
+"cash_to_collect" = "Efectivo a Cobrar";
+"total_amount" = "Cantidad Total";
+"show_details" = "Mostrar Detalles";
+"qa" = "Preguntas Frecuentes";
+"have_you_contacted_the_client?" = "¿Ha contactado al Cliente?";
+"complete" = "Completo";
+"select_category" = "Seleccione Categoría";
+"proof_of_service" = "Prueba de Servicio";
+"before" = "Antes";
+"after" = "Después";
+"upload_photo" = "Subir Foto";
+"add_some_photos_of_for_review_to_get_best_quotes." = "Añada algunas fotos para las reseñas para obtener las mejores citas.";
+"order_contact" = "Contacto de la Orden";
+"please_select_before_image" = "Por favor selecciones imagen anterior";
+"please_select_after_image" = "Por favor seleccione imagen posterior";
+"payble_by_customer" = "Pagable por el Cliente";
+"settled_fees" = "Cuantas Saldadas";
+"type_a_message..." = "Escriba un mensaje";
+"please_enter_review" = "Por favor introduzca reseña";
+"out_of_5" = "De 5";
+"job/hr" = "Trabajo/RH";
+"settings" = "Ajustes";
+"share" = "Compartir";
+"notification" = "Notificación";
+"support" = "Soporte";
+"terms_&_conditions" = "Términos y Condiciones";
+"language" = "Idioma";
+"logged_in_as" = "Conectado como";
+"version_1.0" = "Versión 1.0";
+"order_notification" = "Notificación de Orden";
+"1._tell_us_something_interesting_about_you?" = "1. ¿Nos cuentas algo interesante sobre ti?";
+"2._how_did_you_hear_about_this_app?" = "2. ¿Cómo te enteraste sobre esta aplicación?";
+"employee_survey" = "Encuesta de Empleado";
+"Enter_something_interesting_about_you" = "¡Escribe algo interesante sobre ti!";
+"Enter_specify_other_app_name" = "¡Especifica otro nombre de aplicación!";
+
+"wallet" = "Cartera";
+"log_out" = "Cerrar sesión";
+"my_wallet" = "Mi billetera";
+"available_balance" = "Saldo disponible";
+"deposit" = "Depósito";
+"under_review" = "Bajo revisión";
+"top-up"= "Recarga";
+"cashout" = "retiro";
+"balance_details" = "Detalles del saldo";
+"bank_card_information" = "Información de la";
+"top_up_pay" = "Pago de recarga";
+"place_order" = "Realizar pedido";
+
+"₱_100" = "₱ 100";
+"₱_200" = "₱ 200";
+"₱_300" = "₱ 300";
+"₱_500" = "₱ 500";
+"₱_1000" = "₱ 1000";
+"₱_2000" = "₱ 2000";
